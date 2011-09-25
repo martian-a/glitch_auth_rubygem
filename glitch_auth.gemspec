@@ -10,5 +10,5 @@ Gem::Specification.new do |s|
   	"lib/glitch_auth.rb"
   ]
   s.homepage    =
-    'http://code.bluegumtree.co.uk/ruby/glitch/auth/'
+    'https://github.com/martian-a/glitch_auth_rubygem/'
 end
