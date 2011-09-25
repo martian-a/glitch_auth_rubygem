@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'glitch_auth'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2011-09-25'
   s.summary     = "A simple gem for authenticating with the Glitch API."
   s.description = "Currently only builds and returns the URI."

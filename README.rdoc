@@ -1,6 +1,6 @@
 = glitch_auth
 
-Description goes here.
+A simple gem for authenticating with the Glitch API.  Currently only builds and returns the URI.
 
 == Contributing to glitch_auth
  
