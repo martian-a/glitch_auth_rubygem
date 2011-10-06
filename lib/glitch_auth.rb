@@ -1,6 +1,6 @@
 # This class builds a url that can be used to authenticate
 # with the API for Glitch, the game (http://www.glitch.com).
-class Glitch_Auth
+class GlitchAuth
 
 	# Default constructor.
 	#
